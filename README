@@ -1,0 +1,1 @@
+PLEASE NOTE: This repository was forked from the main HawkRota shortly before the desktop and persistence code were removed from that repository. As such, the Maven group IDs and artifact IDs for this repository are still the same as for the main one. These should be changed before doing any new development or builds on this repo.
